@@ -1,4 +1,4 @@
-# gogeo
+# gogeo math32
 
 ### Installation 
 ```cmd
