@@ -1,6 +1,6 @@
 # gogeo
 
-### Import 
+### Installation 
 ```cmd
 go get github.com/rajabit/gogeo
 ```

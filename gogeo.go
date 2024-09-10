@@ -1,4 +1,4 @@
-package geogo
+package gogeo
 
 import (
 	"math"
