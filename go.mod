@@ -1,4 +1,4 @@
-module gogeo
+module github.com/rajabit/gogeo
 
 go 1.23.1
 
